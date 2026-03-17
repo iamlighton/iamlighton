@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamlighton
-- 👀 I’m interested in ... Frontend and cybersecurity
-- 🌱 I’m currently learning ... Frontend
+- 👀 I’m interested in ... Low-code, frontend, cybersecurity and Ai
+- 🌱 I’m currently learning ... frontend.
 
 
 <!---
